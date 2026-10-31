@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-31T03:03:30.134Z",
+  "passed": 56,
+  "total": 56,
+  "results": [
+    {
+      "pass": true,
+      "test": "모둠 이름 입력 후 게임 시작"
+    },
+    {
+      "pass": true,
+      "test": "Three.js WebGL 작업실 정상 표시"
+    },
+    {
+      "pass": true,
+      "test": "정답 암호를 먼저 알아도 미완료 상태 탈출 불가"
+    },
+    {
+      "pass": true,
+      "test": "mouse 포인터로 360도 시점 회전"
+    },
+    {
+      "pass": true,
+      "test": "touch 포인터로 360도 시점 회전"
+    },
+    {
+      "pass": true,
+      "test": "단서 미조사 상태에서 퍼즐 진입 제한"
+    },
+    {
+      "pass": true,
+      "test": "단계별 힌트 3회 제한 및 저장"
+    },
+    {
+      "pass": true,
+      "test": "房1 단서 1 열림"
+    },
+    {
+      "pass": true,
+      "test": "房1 단서 2 열림"
+    },
+    {
+      "pass": true,
+      "test": "房1 단서 3 열림"
+    },
+    {
+      "pass": true,
+      "test": "방 1 단서 조사 저장"
+    },
+    {
+      "pass": true,
+      "test": "한지 오정렬 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "한 장만 맞추면 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "재실행 시 이어 하기 표시"
+    },
+    {
+      "pass": true,
+      "test": "중간 투명지 위치와 힌트 이어 하기"
+    },
+    {
+      "pass": true,
+      "test": "이어 하기에서 힌트 사용 횟수 유지"
+    },
+    {
+      "pass": true,
+      "test": "두 장을 정확히 겹친 뒤 확인 문항 열림"
+    },
+    {
+      "pass": true,
+      "test": "한지 학습 문항 오답 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "한지 실제 조작 + 문항으로 숫자 3 획득"
+    },
+    {
+      "pass": true,
+      "test": "房2 단서 1 열림"
+    },
+    {
+      "pass": true,
+      "test": "房2 단서 2 열림"
+    },
+    {
+      "pass": true,
+      "test": "房2 단서 3 열림"
+    },
+    {
+      "pass": true,
+      "test": "방 2 단서 조사 저장"
+    },
+    {
+      "pass": true,
+      "test": "매듭 기본 배치 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "매듭 교차만 맞추고 경로 미완료 시 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "매듭 네 교차 중 한 곳 오답 시 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "양 경로와 네 교차 완성으로 숫자 4 획득"
+    },
+    {
+      "pass": true,
+      "test": "房3 단서 1 열림"
+    },
+    {
+      "pass": true,
+      "test": "房3 단서 2 열림"
+    },
+    {
+      "pass": true,
+      "test": "房3 단서 3 열림"
+    },
+    {
+      "pass": true,
+      "test": "방 3 단서 조사 저장"
+    },
+    {
+      "pass": true,
+      "test": "청자 뒤섞인 카드 그대로 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "청자 공정 카드 직접 정렬 후 색 흙 체험 열림"
+    },
+    {
+      "pass": true,
+      "test": "청자 빈 홈 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "청자 모든 홈을 흑토로 채우면 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "백토 꽃과 흑토 줄기 복원으로 숫자 2 획득"
+    },
+    {
+      "pass": true,
+      "test": "房4 단서 1 열림"
+    },
+    {
+      "pass": true,
+      "test": "房4 단서 2 열림"
+    },
+    {
+      "pass": true,
+      "test": "房4 단서 3 열림"
+    },
+    {
+      "pass": true,
+      "test": "방 4 단서 조사 저장"
+    },
+    {
+      "pass": true,
+      "test": "나전 위치만 맞고 회전이 틀리면 고정·통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "여섯 조각 이동·회전 후 실제 꽃문양 완성"
+    },
+    {
+      "pass": true,
+      "test": "꽃잎 수 오답 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "꽃잎 관찰로 숫자 6 획득"
+    },
+    {
+      "pass": true,
+      "test": "최종 암호 오답 통과 불가"
+    },
+    {
+      "pass": true,
+      "test": "3426 입력으로 탈출 성공 및 학습 결과 요약"
+    },
+    {
+      "pass": true,
+      "test": "완료 기록 재접속 시 결과 이어 보기"
+    },
+    {
+      "pass": true,
+      "test": "1440×900 PC·태블릿 HUD 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "1440×900 미션 창 스크롤 및 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "1024×768 PC·태블릿 HUD 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "1024×768 미션 창 스크롤 및 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "768×1024 PC·태블릿 HUD 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "768×1024 미션 창 스크롤 및 화면 내부 배치"
+    },
+    {
+      "pass": true,
+      "test": "처음부터 다시: 방·퍼즐·타이머·힌트 저장 기록 초기화"
+    },
+    {
+      "pass": true,
+      "test": "교사용 연습·검증이 학생 저장 기록과 분리됨"
+    },
+    {
+      "pass": true,
+      "test": "교사 정답 자료는 학생 화면과 별도 분리"
+    }
+  ]
+}
