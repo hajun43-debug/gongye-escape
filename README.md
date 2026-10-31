@@ -6,8 +6,8 @@
 
 ## GitHub Pages
 
-- 저장소: [hajun43-debug/-](https://github.com/hajun43-debug/-)
-- 게임 주소: [사라진 장인의 보물](https://hajun43-debug.github.io/-/) — GitHub Pages 배포가 완료되면 이 주소에서 실행합니다.
+- 저장소: [hajun43-debug/gongye-escape](https://github.com/hajun43-debug/gongye-escape)
+- 게임 주소: [사라진 장인의 보물](https://hajun43-debug.github.io/gongye-escape/) — 공개 게임 실행 주소입니다.
 - 배포 설정: 저장소 **Settings → Pages → Deploy from a branch → main → /(root) → Save**.
 
 진입 파일은 저장소 루트의 `index.html`입니다. `.nojekyll` 파일을 포함해 빌드 없이 정적 파일을 배포합니다. 필요한 리소스를 모두 저장소 안에 포함하며, 별도의 API 키나 서버 설정이 필요하지 않습니다. 이후 `main`의 게임 파일을 수정하면 Pages에서 다시 배포됩니다.
