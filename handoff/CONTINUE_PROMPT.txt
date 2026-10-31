@@ -1,0 +1,16 @@
+이 폴더의 ‘사라진 장인의 보물 — 기록관의 네 봉인’ 작업을 이전 대화에 이어 계속해 주세요.
+
+공개 저장소: https://github.com/hajun43-debug/gongye-escape
+실행 주소: https://hajun43-debug.github.io/gongye-escape/
+
+먼저 AGENTS.md, handoff/PROJECT_CONTEXT.md, handoff/REQUIREMENTS.md, README.md를 읽고, 현재 구현과 배포 상태를 짧게 확인해 주세요.
+개인용 이동 자료의 conversation 폴더를 함께 첨부했다면 사용자·도우미 대화 기록도 참고해 주세요.
+
+이것은 목업이 아니라 이미 실행되는 정적 Three.js 게임입니다. 기존 게임을 기준으로 다음 요청의 수정과 필요한 검증을 진행해 주세요.
+게임은 네 방의 실제 조작을 완료해야 3·4·2·6을 얻고 3426으로 탈출합니다. 교사·학생 모드와 저장 분리를 유지해 주세요.
+로컬 실행은 node server.cjs, 브라우저 검증은 tests/browser-tests.html입니다.
+배포 요청을 받으면 새 컴퓨터의 GitHub 로그인 상태를 확인하고 scripts/deploy.cjs를 사용할 수 있습니다.
+전체 개인 대화와 인증 정보를 공개 저장소에 올리지 마세요.
+
+내 다음 요청:
+[여기에 바꾸거나 추가하고 싶은 내용을 적으세요.]

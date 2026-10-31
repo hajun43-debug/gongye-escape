@@ -1,4 +1,6 @@
 .deploy/
+.portable/
+.private/
 node_modules/
 *.zip
 /사라진-장인의-보물/
